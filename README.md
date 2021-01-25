@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with researchers interested in Latina/o/x aging and health. 
 - 🤔 I’m looking for help with creating effective PowerPoint presentations using R.
 - 💬 Ask me about teaching undergraduate social statistics with R. 
-- 📫 How to reach me: Email me at catherinegarcia@unl.edu
+- 📫 How to reach me: catherinegarcia@unl.edu
 - 😄 Pronouns: she/her/ella
 - ⚡ Fun fact: I make a really good tres leches cake. 
 
