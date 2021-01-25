@@ -3,7 +3,7 @@
 #### I'm an assistant professor of sociology at the University of Nebraska - Lincoln.
 
 
-- 🔭 I’m currently working on examining how neighborhoods affect diabetes prevalence among Latina/o/xs. 
+- 🔭 I’m currently working on examining how neighborhoods affect diabetes prevalence among older Latina/o/xs. 
 - 🌱 I’m currently learning how to build a website using the distill package on R.
 - 👯 I’m looking to collaborate with researchers interested in Latina/o/x aging and health. 
 - 🤔 I’m looking for help with creating effective PowerPoint presentations using R.
