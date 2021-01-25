@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**catgarciaphd/catgarciaphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an assistant professor of sociology at the University of Nebraska - Lincoln.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on examining how neighborhoods affect diabetes prevalence among Latina/o/xs. 
 - 🌱 I’m currently learning how to build a website using the distill package on R.
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me at catherinegarcia@unl.edu
 - 😄 Pronouns: she/her/ella
 - ⚡ Fun fact: I make a really good tres leches cake. 
--->
+
