@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on creating a contextual data resource for the Puerto Rican Elderly Health Conditions Project. 
-- 🌱 I’m currently learning how to build a website using the distill package on R.
+- 🌱 I’m currently learning how to build a website using Blogdown on RStudio.
 - 👯 I’m looking to collaborate with researchers interested in Latina/o/x aging and health. 
 - 🤔 I’m looking for help with creating effective PowerPoint presentations using R.
 - 💬 Ask me about teaching undergraduate social statistics with R. 
