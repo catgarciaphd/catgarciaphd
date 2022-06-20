@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with creating effective PowerPoint presentations using RStudio.
 - 💬 Ask me about teaching undergraduate social statistics with RStudio Cloud. 
 - 📫 How to reach me: cgarci24@syr.edu
-- 😄 Pronouns: she/her/ella
+- 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: I make a really good tres leches cake. 
